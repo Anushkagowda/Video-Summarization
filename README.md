@@ -1,1 +1,1 @@
-# Video-Summarization
+# Video-Summarization using Object Detection Method
